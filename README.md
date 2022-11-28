@@ -2,7 +2,7 @@
 ## Project: Django
 ### Author: AbdallahMosa
 
-### [PR](https://github.com/AbdallahMosa/automation/pull/1)
+### [PR](https://github.com/AbdallahMosa/django-snacks/pull/1)
 ##  create django aproject
 - ```django-admin startproject project-name . ```
 ## run the server
